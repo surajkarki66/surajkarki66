@@ -1,7 +1,8 @@
 ![Blue with Flatlay Vector Illustrations General Linkedin Banner (2)](https://user-images.githubusercontent.com/50628520/87973482-4e1d7c00-cae8-11ea-8554-6dcf860d6d51.png)
 
 ### Hi there 👋
-I am a Computer Engineer Fresher. Artificial Intelligence, Deep Learning, and Software Development are my core strengths, and I am still learning them. I am looking for opportunities and collaborations in data science, deep learning, and software development projects. I have some expertise in Computer Vision and Generative AI and want to work on these domains in the future.
+I am a graduate computer engineer with a good understanding and hands-on experience in software development, artificial intelligence, and computer networks. Artificial intelligence, deep learning, and software development are my core strengths. I have some expertise in computer vision and generative AI and want to work on and improve myself in these domains in the future. I am looking for opportunities and collaborations in data science, deep learning, and software development projects.
+
 
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
