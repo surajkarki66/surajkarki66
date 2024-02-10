@@ -1,3 +1,5 @@
+![Header](./github-header-image.png)
+
 ### Hi there 👋
 I am a graduate computer engineer with a good understanding and hands-on experience in software development, artificial intelligence, and computer networks. Artificial intelligence, deep learning, and software development are my core strengths. I have some expertise in computer vision and generative AI and want to work on and improve myself in these domains in the future. I am looking for opportunities and collaborations in data science, deep learning, and software development projects.
 
