@@ -23,8 +23,8 @@
 ## My Github stats
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajkarki66&show_icons=true&theme=merko)
 
-## Most Used Programming Languages
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkarki66&show_icons=true&locale=en&layout=compact&theme=merko" alt="SurajOfficial" />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkarki66&layout=compact&show_icons=true&theme=radical)
+
 
 🔭 I’m currently working on - *Data Science & Machine Learning.*
 
