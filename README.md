@@ -20,8 +20,11 @@
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg?&style=flat-square&logo=python&logoColor=indigo" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-*My Github stats*
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajkarki66&show_icons=true&theme=merko)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkarki66&show_icons=true&locale=en&layout=compact&theme=merko" alt="SurajOfficial" />
+## My Github stats
+![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajkarki66&show_icons=true&theme=merko)
+
+## Most Used Programming Languages
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkarki66&show_icons=true&locale=en&layout=compact&theme=merko" alt="SurajOfficial" />
 
 🔭 I’m currently working on - *Data Science & Machine Learning.*
 
