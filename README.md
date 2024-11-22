@@ -1,9 +1,9 @@
 ## Hi there, it's Suraj 👋 (Suraj Karki)
 <h4>Artificial Intelligence Practioner | Software Developer | Computer Engineer | International Patent Holder</h4>
-<h4>Driven by a passion for Artificial Intelligence, Software Development, and Research & Development, I strive to create innovative solutions that solve complex problems and contribute to society's greater good. I view each project as a unique learning opportunity—exploring ideas, embracing challenges, and transforming setbacks into milestones of growth and meaningful impact.</h4>
+<h4>Driven by a passion for Artificial Intelligence, Software Development, and Research & Development, I strive to create innovative solutions that solve complex problems and contribute to society's greater good. I view each project as a unique learning opportunity—exploring ideas, embracing challenges, and transforming setbacks into growth milestones and meaningful impact.</h4>
 
 <br/>
-----
+
 <h5>Reach me on:
   
 - My profile in <a href="https://www.linkedin.com/in/surajk66/">LinkedIn</a> 💼 
@@ -13,7 +13,7 @@
 - My updates in <a href="https://twitter.com/sankha_subhra18">Twiiter</a> 💬</h5>
 
 <br/>
-----
+
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
 <a href="#/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="git" width="40" height="40"/> </a>
@@ -25,11 +25,11 @@
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
 <br />
------
+
 ![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajkarki66&show_icons=true&theme=merko)<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=surajkarki66&show_icons=true&locale=en&layout=compact&theme=merko" alt="SurajOfficial" />
 
 <br/>
-----
+
 🔭 I’m currently working on - *Data Science & Machine Learning.*
 
 🌱 I’m currently learning - *Deep learning, NLP, and Computer Vision*
@@ -39,6 +39,6 @@
 😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Fast-Learner, Hardworking & Perfectionist.*
 
 <br/>
-----
+
 ## Visitors Count - Since February 11, 2024
  ![Visitor Count](https://profile-counter.glitch.me/{surajkarki66}/count.svg)
