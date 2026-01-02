@@ -8,7 +8,6 @@
 - My website <a href="https://surajkarki66.com.np/">surajkarki66.com.np</a> 📹 ✍🏾
 - My technical blogs in <a href="https://savvysuraj.hashnode.dev/">Hashnode</a> 🏓
 - My contribution in Data Science in <a href="https://www.kaggle.com/surajkarki66">Kaggle</a>🖥💻
-- My updates in <a href="https://twitter.com/sankha_subhra18">Twiiter</a> 💬</h5>
 
 ## 🚀 Skills
 <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=flat-square&logo=javascript&logoColor=black" />
