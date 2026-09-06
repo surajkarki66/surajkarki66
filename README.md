@@ -19,19 +19,13 @@
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://pandas.pydata.org/static/img/pandas_secondary.svg?&style=flat-square&logo=python&logoColor=indigo" alt="pandas" width="40" height="40"/> </a> 
     <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
 
-## My Github stats
-![Suraj's github stats](https://github-readme-stats.vercel.app/api?username=surajkarki66&show_icons=true&theme=merko)
+🔭 I’m currently working on - *Data Science & Edge AI*
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=surajkarki66&layout=compact&show_icons=true&theme=radical)
+🌱 I’m currently learning - *Deep learning and Computer Vision*
 
+👯 I’ve worked with institutions and companies like - *Youth Innovation Lab, Universidad Politécnica de Cartagena, Milo Logic Pvt.Ltd, Inflancer, Hochschule Bielefeld, and Universität Bielefeld*
 
-🔭 I’m currently working on - *Data Science & Machine Learning.*
-
-🌱 I’m currently learning - *Deep learning, NLP, and Computer Vision*
-
-👯 I’ve worked with institutions and companies like - *Youth Innovation Lab, Unisala, Universidad Politécnica de Cartagena, Milo Logic Pvt.Ltd, Inflancer*
-
-😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Fast-Learner, Hardworking & Perfectionist.*
+😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Fast-Learner, and Hardworking.*
 
 ## Visitors Count - Since February 11, 2024
  ![Visitor Count](https://profile-counter.glitch.me/{surajkarki66}/count.svg)
