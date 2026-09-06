@@ -26,6 +26,3 @@
 👯 I’ve worked with institutions and companies like - *Youth Innovation Lab, Universidad Politécnica de Cartagena, Milo Logic Pvt.Ltd, Inflancer, Hochschule Bielefeld, and Universität Bielefeld*
 
 😄 Words that describe me - *Pro-Active, Self-motivated, Focused, Fast-Learner, and Hardworking.*
-
-## Visitors Count - Since February 11, 2024
- ![Visitor Count](https://profile-counter.glitch.me/{surajkarki66}/count.svg)
